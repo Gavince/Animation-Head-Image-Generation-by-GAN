@@ -1,0 +1,1 @@
+from .GanNet import NetG, NetD
